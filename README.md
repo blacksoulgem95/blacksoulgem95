@@ -8,7 +8,7 @@
 - 🔭 I am slowly writing articles about my tech issues on [Medium](https://blacksoulgem95.medium.com)
 - 🌱 I’m currently learning PHP, Go & Python
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects & write more articles
 - ⚡ Fun fact: I love to play multiple instruments and do D&D nights
 
 ### Connect with me:
