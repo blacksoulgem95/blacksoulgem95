@@ -24,6 +24,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Come Registrarsi sulla app TicketRestaurant con il nome di elezione](https://blacksoulgem95.medium.com/come-registrarsi-sulla-app-ticketrestaurant-con-il-nome-di-elezione-3e209f907ec?source=rss-1ad83ff280ef------2)
 - [Fighting with Angular environments](https://blacksoulgem95.medium.com/fighting-with-angular-environments-e69f40d738cd?source=rss-1ad83ff280ef------2)
 - [Installing imapsync on Debian-derived Linux](https://blacksoulgem95.medium.com/installing-imapsync-on-debian-derived-linux-234bedca65d4?source=rss-1ad83ff280ef------2)
 - [The Scottish Situation](https://blacksoulgem95.medium.com/the-scottish-situation-4e64c466513c?source=rss-1ad83ff280ef------2)
