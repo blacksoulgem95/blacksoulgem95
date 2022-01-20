@@ -20,7 +20,7 @@
 [<img align="left" alt="blacksoulgem95 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-<a rel="me" href="[mastodon]"><img align="left" alt="blacksoulgem95 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" /></a>
+<a rel="me" href="https://tech.lgbt/@blacksoulgem95"><img align="left" alt="blacksoulgem95 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" /></a>
 
 <br />
 
