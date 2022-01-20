@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 ### Hi there, I'm Sofia - aka [blacksoulgem95][website] 👋 
 
 [![Website](https://img.shields.io/website?label=blacksoulgem95.medium.com&style=for-the-badge&url=https%3A%2F%2Fblacksoulgem95.medium.com)](https://blacksoulgem95.medium.com)
@@ -14,10 +16,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="My Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="blacksoulgem95 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="My Blog" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg" />][website]
+[<img align="left" alt="blacksoulgem95 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
+[<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
+<a rel="me" href="[mastodon]"><img align="left" alt="blacksoulgem95 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" /></a>
 
 <br />
 
@@ -46,6 +49,8 @@
 [twitter]: https://twitter.com/blacksoulgem95
 [instagram]: https://instagram.com/blacksoulgem95
 [linkedin]: https://linkedin.com/in/sofiavicedomini
+[mastodon]: https://tech.lgbt/@blacksoulgem95
+
 <!--
 **blacksoulgem95/blacksoulgem95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
