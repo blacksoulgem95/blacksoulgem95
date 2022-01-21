@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inclusività sul lavoro e dipendenti Transgender](https://blacksoulgem95.medium.com/inclusivit%C3%A0-sul-lavoro-e-dipendenti-transgender-db48c7b00d43?source=rss-1ad83ff280ef------2)
 - [Cosa significa essere Transgender](https://blacksoulgem95.medium.com/cosa-significa-essere-transgender-37d19b61d0e7?source=rss-1ad83ff280ef------2)
 - [Come Registrarsi sulla app TicketRestaurant con il nome di elezione](https://blacksoulgem95.medium.com/come-registrarsi-sulla-app-ticketrestaurant-con-il-nome-di-elezione-3e209f907ec?source=rss-1ad83ff280ef------2)
 - [Fighting with Angular environments](https://blacksoulgem95.medium.com/fighting-with-angular-environments-e69f40d738cd?source=rss-1ad83ff280ef------2)
 - [Installing imapsync on Debian-derived Linux](https://blacksoulgem95.medium.com/installing-imapsync-on-debian-derived-linux-234bedca65d4?source=rss-1ad83ff280ef------2)
-- [The Scottish Situation](https://blacksoulgem95.medium.com/the-scottish-situation-4e64c466513c?source=rss-1ad83ff280ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blacksoulgem95.medium.com)
