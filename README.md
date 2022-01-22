@@ -7,7 +7,7 @@
 
 ## I'm a Developer, Startupper, Human Rights Activist and Teacher!
 
-- 🔭 I am slowly writing articles about my tech issues on [Medium](https://blacksoulgem95.medium.com)
+- 🔭 I am slowly writing articles about my tech issues, life as a Transgender tech worker and inclusive HR tips on [Medium](https://blacksoulgem95.medium.com)
 - 🌱 I’m currently learning PHP, Go & Python
 - ⚓️ I have solid knowledge of Java, Kotlin & JavaScript
 - 👯 I’m looking to collaborate with other content creators
