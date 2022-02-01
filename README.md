@@ -34,7 +34,7 @@
 - [Fighting with Angular environments](https://italianprogrammer.pizza/2022/01/13/fighting-with-angular-environments-e69f40d738cd/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://blacksoulgem95.medium.com)
+➡️ [more blog posts...](https://italianprogrammer.pizza)
 
 ---
 
@@ -45,7 +45,7 @@
 
 </details>
 
-[website]: https://blacksoulgem95.medium.com
+[website]: https://italianprogrammer.pizza
 [twitter]: https://twitter.com/blacksoulgem95
 [instagram]: https://instagram.com/blacksoulgem95
 [linkedin]: https://linkedin.com/in/sofiavicedomini
