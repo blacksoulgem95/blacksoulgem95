@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Sofia - aka [blacksoulgem95][website] 👋 
 
-[![Website](https://img.shields.io/website?label=blacksoulgem95.medium.com&style=for-the-badge&url=https%3A%2F%2Fblacksoulgem95.medium.com)](https://blacksoulgem95.medium.com)
+[![Website](https://img.shields.io/website?label=italianprogrammer.pizza&style=for-the-badge&url=https%3A%2F%2Fitalianprogrammer.pizza)](https://italianprogrammer.pizza)
 [![Twitter Follow](https://img.shields.io/twitter/follow/blacksoulgem95?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%blacksoulgem95&screen_name=blacksoulgem95)
 
 ## I'm a Developer, Startupper, Human Rights Activist and Teacher!
