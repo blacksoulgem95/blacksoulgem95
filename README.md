@@ -7,12 +7,13 @@
 
 ## I'm a Developer, Startupper, Human Rights Activist and Teacher!
 
-- 🔭 I am slowly writing articles about my tech issues, life as a Transgender tech worker and inclusive HR tips on [Medium](https://blacksoulgem95.medium.com)
-- 🌱 I’m currently learning PHP, Go & Python
+- 🔭 I am slowly writing articles about my tech issues, life as a Transgender tech worker and inclusive HR tips on [My Website](https://italianprogrammer.pizza)
+- 🌱 I’m currently learning PHP8, Go & Python3
 - ⚓️ I have solid knowledge of Java, Kotlin & JavaScript
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects & write more articles
 - ⚡ Fun fact: I love to play multiple instruments and do D&D nights
+- 😄 My pronouns are: she/her
 
 ### Connect with me:
 
