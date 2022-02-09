@@ -28,11 +28,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inclusive policies for the 21st Century Workplace](https://italianprogrammer.pizza/2022/02/09/inclusive-policies-for-the-21st-century-workplace/)
 - [Inclusività sul lavoro e dipendenti Transgender](https://italianprogrammer.pizza/2022/01/21/inclusivit-sul-lavoro-e-dipendenti-transgender-db48c7b00d43/)
 - [Cosa significa essere Transgender](https://italianprogrammer.pizza/2022/01/19/cosa-significa-essere-transgender-37d19b61d0e7/)
 - [Come Registrarsi sulla app TicketRestaurant con il nome di elezione](https://italianprogrammer.pizza/2022/01/18/come-registrarsi-sulla-app-ticketrestaurant-con-il-nome-di-elezione-3e209f907ec/)
 - [Installing imapsync on Debian-derived Linux](https://italianprogrammer.pizza/2022/01/13/installing-imapsync-on-debian-derived-linux-234bedca65d4/)
-- [Fighting with Angular environments](https://italianprogrammer.pizza/2022/01/13/fighting-with-angular-environments-e69f40d738cd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://italianprogrammer.pizza)
