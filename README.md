@@ -41,7 +41,7 @@
 
 ## ☕️ Buy me a Coffee
 
-[Ko-Fi](https://ko-fi.com/blacksoulgem95)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q1AEQQK)
 
 ---
 
