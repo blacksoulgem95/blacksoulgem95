@@ -28,11 +28,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Jigsaw - an honest review](https://italianprogrammer.pizza/2022/02/21/jigsaw-an-honest-review)
 - [La mia prima esperienza con la TV Italiana](https://italianprogrammer.pizza/2022/02/19/la-mia-prima-esperienza-con-la-tv-italiana)
 - [Inclusive policies for the 21st Century Workplace](https://italianprogrammer.pizza/2022/02/09/inclusive-policies-for-the-21st-century-workplace)
 - [Inclusività sul lavoro e dipendenti Transgender](https://italianprogrammer.pizza/2022/01/21/inclusivita-sul-lavoro-e-dipendenti-transgender)
 - [Cosa significa essere Transgender](https://italianprogrammer.pizza/2022/01/19/cosa-significa-essere-transgender)
-- [Come Registrarsi sulla app TicketRestaurant con il nome di elezione](https://italianprogrammer.pizza/2022/01/18/come-registrarsi-sulla-app-ticketrestaurant-con-il-nome-di-elezione)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://italianprogrammer.pizza)
