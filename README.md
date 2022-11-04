@@ -58,6 +58,12 @@
 [linkedin]: https://linkedin.com/in/sofiavicedomini
 [mastodon]: https://tech.lgbt/@blacksoulgem95
 
+--- 
+
+I host my software on Digital Ocean, click the button below for 200 euros in credits 
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=062ac7c1adf3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 <!--
 **blacksoulgem95/blacksoulgem95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
