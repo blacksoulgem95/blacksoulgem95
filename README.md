@@ -27,11 +27,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unveiling Adriano Olivetti&#39;s Revolutionary Vision for Employment](https://italianprogrammer.pizza/2023/01/31/unveiling-adriano-olivettis-revolutionary-vision-for-employment)
 - [Salary Transparancy: Why it is important](https://italianprogrammer.pizza/2023/01/23/salary-transparancy-why-it-is-important)
 - [A serial Startupper&#39;s analysis of the current market situation](https://italianprogrammer.pizza/2022/11/11/a-serial-startuppers-analysis-of-the-current-market-situation)
 - [Work Ethics: why people are leaving their jobs](https://italianprogrammer.pizza/2022/03/21/work-ethics-why-people-are-leaving-their-jobs)
 - [Jigsaw - an honest review](https://italianprogrammer.pizza/2022/02/21/jigsaw-an-honest-review)
-- [La mia prima esperienza con la TV Italiana](https://italianprogrammer.pizza/2022/02/19/la-mia-prima-esperienza-con-la-tv-italiana)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://italianprogrammer.pizza)
