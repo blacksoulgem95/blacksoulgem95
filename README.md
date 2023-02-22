@@ -2,15 +2,17 @@
 
 ### Hi there, I'm Sofia - aka [blacksoulgem95][website] 👋 
 
+![Banner](https://italianprogrammer.pizza/assets/images/gh-banner.png)
+
 [![Website](https://img.shields.io/website?label=italianprogrammer.pizza&style=for-the-badge&url=https%3A%2F%2Fitalianprogrammer.pizza)](https://italianprogrammer.pizza)
 
 ## I'm a Developer, Startupper, Human Rights Activist and Teacher!
 
 - 🔭 I am slowly writing articles about my tech issues, life as a Transgender tech worker and inclusive HR tips on [My Website](https://italianprogrammer.pizza)
-- 🌱 I’m currently learning PHP8, Go & Python3
+- 🌱 I’m currently learning Android and iOS Development
 - ⚓️ I have solid knowledge of Java, Kotlin & JavaScript
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects & write more articles
+- 🥅 2023 Goals: Contribute more to Open Source projects & write more articles
 - ⚡ Fun fact: I love to play multiple instruments and do D&D nights
 - 😄 My pronouns are: she/her
 
@@ -20,7 +22,7 @@
 [<img align="left" alt="blacksoulgem95 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
-<a rel="me" href="https://tech.lgbt/@blacksoulgem95"><img align="left" alt="blacksoulgem95 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" /></a>
+<a rel="me" href="https://pwbsoft.gay/@blacksoulgem95"><img align="left" alt="blacksoulgem95 | Mastodon" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" /></a>
 
 <br />
 
