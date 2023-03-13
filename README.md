@@ -65,6 +65,39 @@ I host my software on Digital Ocean, click the button below for 200 euros in cre
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=062ac7c1adf3&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
+---
+
+### Public Key
+If I have to share a file with you, I will sign it with my Private Key - you can verify it's autenticity with the following x509 Public Key.
+
+#### 03/2023 to 03/2024
+```
+-----BEGIN CERTIFICATE-----
+MIID9zCCAt+gAwIBAgIUUdSqt4BY/2t5hEc0rFN9LH0uLwEwDQYJKoZIhvcNAQEL
+BQAwgYoxCzAJBgNVBAYTAklUMQ8wDQYDVQQIDAZNaWxhbm8xEDAOBgNVBAcMB1Nl
+dHRhbGExGTAXBgNVBAoMEFNvZmlhIFZpY2Vkb21pbmkxGTAXBgNVBAMMEFNvZmlh
+IFZpY2Vkb21pbmkxIjAgBgkqhkiG9w0BCQEWE3NvZml2aWM5NUBnbWFpbC5jb20w
+HhcNMjMwMzEzMDk0OTQ0WhcNMjQwMzEyMDk0OTQ0WjCBijELMAkGA1UEBhMCSVQx
+DzANBgNVBAgMBk1pbGFubzEQMA4GA1UEBwwHU2V0dGFsYTEZMBcGA1UECgwQU29m
+aWEgVmljZWRvbWluaTEZMBcGA1UEAwwQU29maWEgVmljZWRvbWluaTEiMCAGCSqG
+SIb3DQEJARYTc29maXZpYzk1QGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKJkTwHOtMdnvfCnQQjhClgR22VscbCNGEzTRuh+5tjy/mKM
+n53B9t0TUx/wDyG6kFYzHFmhWHqeyNkkdzQfo/JF92pGaz+pK9cHdtq5Dtwqv9Ao
+IaYTONzJ7wi49MeAbleArg6zcYGCrFPKVJ91pAatb2Vspml8dQhuxW8bmArKxc9x
+yXhsUARNBZ2np/JA8dkMCHd9kTOBX2t+6EFHnKuXib9hly6cwjGTyWGlDnQyL8m9
+T5L5ULGpN2ZuARsKoFiHn3JiYSKRFVjqvC+vgudfEN8ZIkAw9qDJGIkSTpvIfddf
+cslJ2m2VkE+2wli5GOOcXY9l2KJlDLJOSSxjtpkCAwEAAaNTMFEwHQYDVR0OBBYE
+FDY0T8DqgRSw2ZU0SpUnrhc+d/ZIMB8GA1UdIwQYMBaAFDY0T8DqgRSw2ZU0SpUn
+rhc+d/ZIMA8GA1UdEwEB/wQFMAMBAf8wDQYJKoZIhvcNAQELBQADggEBAAqPx/Np
+piJYoVVNC1d1GOoDknGcEDWCg6w1utiNwFra5WFk1xpDDX+fDHb6JHMUnADsJ6Tx
+hhnKchtwttC4A+tydXAN17CCpwy1ye7Fn/n9DL5OxRI6RitWnaHL+MQphFl22LWo
+TXmYAsxJ9puSdG1H4tOBxRJGi6BTv/5svTL5BQRsn5bcAFjZjz+DKTXHDPCst2ab
+Foc/B7gxk6AwPT+RpLgdRH1+IhjUyKB4Y1xKhtntMyNkVdd6Fm1A1PHIn3F92RrB
+wkNZ4gtMjn/Q4ZtvhgoAHhzQgVnUOCn0p/T8r9Fwo72X/KWS6e1QYi/IppMW68xG
+2+Dah6W0Ls/bYvo=
+-----END CERTIFICATE-----
+```
+
 <!--
 **blacksoulgem95/blacksoulgem95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
