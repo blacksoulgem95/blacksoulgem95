@@ -17,7 +17,6 @@
 ### Connect with me:
 
 [<img align="left" alt="My Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg" />][website]
-[<img align="left" alt="blacksoulgem95 | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />][twitter]
 [<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
