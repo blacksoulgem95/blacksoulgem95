@@ -2,9 +2,7 @@
 
 ### Hi there, I'm Sofia - aka [blacksoulgem95][website] 👋 
 
-![Banner](https://italianprogrammer.pizza/assets/images/gh-banner.png)
-
-[![Website](https://img.shields.io/website?label=italianprogrammer.pizza&style=for-the-badge&url=https%3A%2F%2Fsofiavicedomini.me)](https://sofiavicedomini.me)
+[![Website](https://img.shields.io/website?label=sofiavicedomini.me&style=for-the-badge&url=https%3A%2F%2Fsofiavicedomini.me)](https://sofiavicedomini.me)
 
 ## I'm a Developer & Startupper with a passion for teaching!
 
