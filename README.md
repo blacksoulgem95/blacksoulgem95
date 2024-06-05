@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Android and iOS Development
 - ⚓️ I have a solid knowledge of Java, Kotlin & JavaScript
-- 🥅 2024 Goals: Relocate and go back to actually writing code for work
+- 🥅 2024 Goals: Relocate anywhere but Italy and go back to actually writing code for work ( ☑️ )
 - ⚡ Fun fact: I love to play multiple instruments and do D&D nights
 - 😄 My pronouns are: she/her
 
@@ -16,7 +16,6 @@
 
 [<img align="left" alt="My Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg" />][website]
 [<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-[<img align="left" alt="blacksoulgem95 | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" />][instagram]
 
 
 <br/>
@@ -36,5 +35,4 @@
 
 [website]: https://sofiavicedomini.me
 [twitter]: https://twitter.com/blacksoulgem95
-[instagram]: https://instagram.com/blacksoulgem95
 [linkedin]: https://linkedin.com/in/sofiavicedomini
