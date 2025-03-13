@@ -12,7 +12,8 @@ I'm a **software developer** with a passion for building robust, scalable, and e
 - **Languages**: Java, JavaScript, TypeScript, HTML, CSS
 - **Frontend**: Angular, React
 - **Backend**: Java (Spring Boot), Node.js
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, MySQL, MariaDB, Oracle
+- **NoSQL DBs**: Firestore, MongoDB, Couchbase
 - **Other**: Git, Docker, Kubernetes
 
 ### 📫 Connect with Me
