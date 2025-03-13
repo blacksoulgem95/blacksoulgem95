@@ -1,24 +1,25 @@
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+### Hi there, I'm Sofia Vicedomini! 👋
 
-### Hi there, I'm Sofia - aka [blacksoulgem95][website] 👋 
+I'm a **software developer** with a passion for building robust, scalable, and efficient applications. I started coding at the age of 12 and have been working professionally since I was 18. My ultimate goal is **financial independence** through software development and entrepreneurship.
 
-[![Website](https://img.shields.io/website?label=sofiavicedomini.me&style=for-the-badge&url=https%3A%2F%2Fsofiavicedomini.me)](https://sofiavicedomini.me)
+### 🚀 About Me
+- 🎭 **Actress & Model**: Besides coding, I have experience in acting and modeling.
+- 🕹️ **Gaming Enthusiast**: Passionate about gaming and trying to develop my first game, it will be a long journey.
+- 🖥️ **Software Development**: Specializing in backend development with **Java** and frontend with **Angular & React**.
+- 🎓 **Mentorship & Education**: Actively mentoring new developers and organizing training programs.
 
-## I'm a Developer & Startupper with a passion for teaching!
+### 💻 Tech Stack
+- **Languages**: Java, JavaScript, TypeScript, HTML, CSS
+- **Frontend**: Angular, React
+- **Backend**: Java (Spring Boot), Node.js
+- **Databases**: PostgreSQL, MySQL
+- **Other**: Git, Docker, Kubernetes
 
-- 🌱 I’m currently learning Android and iOS Development
-- ⚓️ I have a solid knowledge of Java, Kotlin & JavaScript
-- 🥅 2024 Goals: Relocate anywhere but Italy and go back to actually writing code for work ( ☑️ )
-- ⚡ Fun fact: I love to play multiple instruments and do D&D nights
-- 😄 My pronouns are: she/her
-
-### Connect with me:
-
-[<img align="left" alt="My Website" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Noun_Project_website_icon_3077870.svg" />][website]
-[<img align="left" alt="Sofia Vicedomini | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
-
-
-<br/>
+### 📫 Connect with Me
+- 🌍 **Website**: [sofiavicedomini.me](https://sofiavicedomini.me)
+- ⌨️ **Old Net**: [blacksoulgem95.neocities.org](https://blacksoulgem95.neocities.org)
+- 💼 **LinkedIn**: [linkedin.com/in/sofiavicedomini](https://www.linkedin.com/in/sofiavicedomini)
+- 📧 **Email**: Reach out via my website!
 
 ## ☕️ Buy me a Coffee
 
@@ -32,7 +33,3 @@
   <img align="left" alt="BlackSoulGem95's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=blacksoulgem95&show_icons=true&hide_border=true" />
 
 </details>
-
-[website]: https://sofiavicedomini.me
-[twitter]: https://twitter.com/blacksoulgem95
-[linkedin]: https://linkedin.com/in/sofiavicedomini
