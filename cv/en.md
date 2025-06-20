@@ -2,12 +2,13 @@
 
 📍 Nettuno, Rome, Italy  
 ✉️ [business@sofiavicedomini.me](mailto:business@sofiavicedomini.me)  
-🌍 [https://sofiavicedomini.me](https://sofiavicedomini.me)    
+🌍 [https://sofiavicedomini.me](https://sofiavicedomini.me)
+🔗 [https://linkedin.com/in/sofiavicedomini](https://linkedin.com/in/sofiavicedomini)
 
 ---
 
 ## 🏆 Summary  
-I am a passionate developer with a startup approach to my craft. I possess strong soft skills, allowing me to pitch products to investors and secure funding, as I did for my first startup. While I have experience in management, I prefer hands-on roles where I can write innovative and modern code—my true passion.
+I am a passionate developer with a startup approach to my craft. I possess strong soft skills, allowing me to pitch products to investors and secure funding, as I did for my first startup. I have experience in management, and a passion to write innovative and modern code — my passion since youth.
 
 ---
 
@@ -20,10 +21,12 @@ I am a passionate developer with a startup approach to my craft. I possess stron
 
 ### **Alten SA** (2024 - 2024)  
 📍 Sophia Antipolis, France | [alten.com](https://alten.com)  
+#### Senior R&D Software Engineer
 - Helped customers achieve technological success through process improvements and cutting-edge technology implementation.  
 
 ### **Urbi - Telepass Group** (2023 - 2023)  
 📍 Milan, Italy | [urbi.co](https://urbi.co)  
+#### IT Manager
 - Managed IT operations and improved application security.  
 - Translated business requirements into technical stories and coordinated API integrations with partners/providers.  
 
