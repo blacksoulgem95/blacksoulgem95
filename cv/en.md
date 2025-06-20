@@ -1,8 +1,11 @@
 # Sofia Vicedomini
 
-📍 Nettuno, Rome, Italy  
-✉️ [business@sofiavicedomini.me](mailto:business@sofiavicedomini.me)  
+📍 Nettuno, Rome, Italy
+
+✉️ [business@sofiavicedomini.me](mailto:business@sofiavicedomini.me)
+
 🌍 [https://sofiavicedomini.me](https://sofiavicedomini.me)
+
 🔗 [https://linkedin.com/in/sofiavicedomini](https://linkedin.com/in/sofiavicedomini)
 
 ---
